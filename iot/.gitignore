@@ -1,0 +1,9 @@
+# Files
+*.txt
+*.json
+
+# Folders
+.pio
+cmake-build-*/ 
+.idea
+.vscode
